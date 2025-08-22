@@ -9,22 +9,21 @@ body{margin:0;background:#F5F6F8;color:#111111;font-family:Manrope,Inter,system-
 
 .slide{width:1280px;height:720px;margin:24px auto;padding:54px 60px 50px;background:#FFFFFF;
   border:1px solid #EAECEF;border-radius:24px;box-shadow:0 14px 40px rgba(17,17,17,.10);position:relative;overflow:hidden}
-/* cover only */
-.slide.has-brand{padding-top:120px} /* безопасная зона под бар */
+
+.slide.has-brand{padding-top:120px} 
 .brand-bar{position:absolute;left:0;top:0;right:0;height:72px;background:#FFDD2D;border-bottom:1px solid rgba(0,0,0,.06)}
 
-/* декоративный уголок */
+
 .brand-corner{position:absolute;right:-120px;bottom:-120px;width:340px;height:340px;border-radius:50%;
   background:radial-gradient(closest-side,rgba(255,221,45,.22),transparent 70%)}
 
-/* заголовки */
+
 h1.title{margin:0;font-size:44px;line-height:1.12;font-weight:800;letter-spacing:.1px}
 .subtitle{margin-top:10px;color:#6B7280;font-size:18px}
-.title-underline{width:72px;height:6px;background:#FFDD2D;border-radius:3px;margin:12px 0 8px} /* для всех нетитульных */
-
+.title-underline{width:72px;height:6px;background:#FFDD2D;border-radius:3px;margin:12px 0 8px} 
 .hr{height:2px;background:#EAECEF;margin:16px 0 18px}
 
-/* карточки/сетка */
+
 .grid{display:grid;gap:16px}
 .grid.two{grid-template-columns:1fr 1fr}
 .grid.three{grid-template-columns:1fr 1fr 1fr}
@@ -35,30 +34,30 @@ h1.title{margin:0;font-size:44px;line-height:1.12;font-weight:800;letter-spacing
 .card p.caption{margin:6px 0 0;color:#6B7280;font-size:14px}
 .card img{width:100%;height:360px;object-fit:contain;background:#FAFBFC;border-radius:12px;border:1px solid #EAECEF}
 
-/* KPI */
+
 .kpi-row{display:flex;gap:12px;flex-wrap:wrap;margin-top:10px}
 .kpi{flex:1 1 0;min-width:220px;background:#fff;border:1px solid #EAECEF;border-radius:16px;padding:12px 14px;box-shadow:0 6px 24px rgba(17,17,17,.06)}
 .kpi .label{color:#6B7280;font-size:13px;margin-bottom:4px}
 .kpi .value{font-size:28px;font-weight:800;letter-spacing:.2px}
 .kpi.ok .value{color:#10B981} .kpi.warn .value{color:#F59E0B} .kpi.bad .value{color:#EF4444}
 
-/* метки/чипы + заметки */
+
 .chips{display:flex;gap:8px;flex-wrap:wrap;margin:8px 0 4px}
 .chip{background:#FFDD2D;border:1px solid rgba(0,0,0,.06);border-radius:999px;padding:6px 10px;font-weight:700;font-size:12px}
 .note{background:#FFFBEA;border:1px solid #E6C200;border-left:6px solid #E6C200;border-radius:12px;padding:12px 14px;color:#111111;font-size:14px}
 
-/* bullets */
+
 ul.bullets{padding-left:18px;margin:8px 0 0}
 ul.bullets li{margin:6px 0;color:#111111}
 ul.bullets li::marker{color:#E6C200}
 
-/* таблица (для доли сервиса) */
+
 .table{width:100%;border-collapse:collapse;margin-top:8px}
 .table th,.table td{border:1px solid #EAECEF;padding:8px 10px;text-align:left}
 .table th{background:#FAFBFC}
 .table .r{text-align:right}
 
-/* футер */
+
 .footer{position:absolute;left:0;right:0;bottom:16px;display:flex;justify-content:space-between;padding:0 24px;color:#6B7280;font-size:12.5px}
 .footer .brand{font-weight:700}
 
@@ -142,7 +141,7 @@ ul.bullets li::marker{color:#E6C200}
       <div class="note">Ожидаемый эффект: +CR cross-sell 1.3–1.8×; вторично — рост удержания</div>
     </div>
     <div class="card">
-      <h3>Оценка доли сервиса (черновая)</h3>
+      <h3>Оценка доли сервиса</h3>
       <table class="table">
         <thead><tr><th>Сегмент</th><th class='r'>Наши успехи</th><th class='r'>Рынок</th><th class='r'>Доля</th></tr></thead>
         <tbody><tr><td>Авиа</td><td class='r'>596 156</td><td class='r'>111 700 000</td><td class='r'>0.5%</td></tr><tr><td>Отели</td><td class='r'>163 794</td><td class='r'>390 200 000</td><td class='r'>0.0%</td></tr></tbody>
@@ -151,4 +150,5 @@ ul.bullets li::marker{color:#E6C200}
     </div>
   </div>
   <div class="footer"><span class="brand">T-Bank</span><span>Summary</span></div>
+
 </section></body></html>
