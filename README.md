@@ -33,9 +33,9 @@ T-bank_analysis_hotels_and_air_travel/
 
 ├── presentation/ # презентация проекта
 
-├── reports/
+├── docs/
 
-│      ├── tbank_report.html  # HTML-презентация
+│      ├── tbank_report.html  # HTML-презентация [Смотреть сайт](https://kor4yz.github.io/T-bank_analysis_hotels_and_air_travel/)
 
 │      ├── png, scg           # PNG / SVG графики
 
