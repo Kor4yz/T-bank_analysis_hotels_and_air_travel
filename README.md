@@ -58,7 +58,6 @@ T-bank_analysis_hotels_and_air_travel/
 | 💸 Revenue by Category | Доход по видам поездок |
 | ✈️ Top 10 Destinations | Популярные направления |
 
-*(Вставь картинки прямо через Markdown: `![](dashboards/heatmap.png)`)*
 
 ---
 
@@ -69,7 +68,6 @@ T-bank_analysis_hotels_and_air_travel/
 или  
 🔗 **Yandex DataLens:** [Перейти к отчёту](https://datalens.yandex.ru/...)
 
-*(Если дашборд пока не готов — сделай скриншоты и положи их в `/dashboards/`.)*
 
 ---
 
