@@ -25,4 +25,3 @@ Tребуется Python 3.9+ и библиотеки pandas, matplotlib, seabor
    numpy
    matplotlib
    seaborn
-  ```
