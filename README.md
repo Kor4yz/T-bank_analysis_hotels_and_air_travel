@@ -39,7 +39,7 @@ T-bank_analysis_hotels_and_air_travel/
 
 │      ├── png, scg           # PNG / SVG графики
 
-│      ├── csv                # CSV
+│      └── csv                # CSV
 
 ├── results/ # финальные графики, инсайты
 
