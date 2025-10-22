@@ -15,7 +15,6 @@
 
 ## ⚙️ Используемый стек
 `Python` · `Pandas` · `Matplotlib` · `Seaborn` · `Tableau` / `Power BI` · `SQL`  
-(в зависимости от фактических инструментов)
 
 ---
 
