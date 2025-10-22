@@ -35,11 +35,11 @@ T-bank_analysis_hotels_and_air_travel/
 
 ├── reports/
 
-│   ├── tbank_report.html  # HTML-презентация
+│      ├── tbank_report.html  # HTML-презентация
 
-│   ├── png, scg           # PNG / SVG графики
+│      ├── png, scg           # PNG / SVG графики
 
-│   ├── csv                # CSV
+│      ├── csv                # CSV
 
 ├── results/ # финальные графики, инсайты
 
