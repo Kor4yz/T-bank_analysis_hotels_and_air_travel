@@ -32,7 +32,7 @@ T-bank_analysis_hotels_and_air_travel/
 ├── presentation/ # презентация проекта
 ├── reports/
 │   ├── tbank_report.html  # HTML-презентация
-│   ├── results/           # PNG / SVG графики
+│   ├── png, scg           # PNG / SVG графики
 │   ├── csv                # CSV
 
 ├── results/ # финальные графики, инсайты
