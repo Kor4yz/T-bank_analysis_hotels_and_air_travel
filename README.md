@@ -26,8 +26,14 @@ T-bank_analysis_hotels_and_air_travel/
 ├── notebooks/ # ноутбуки с анализом
 
 ├── dashboards/ # визуализации, BI-дашборды
+├── src/                   # исходный код (Python-скрипты)
+│   └── main.py            # основной скрипт
 
 ├── presentation/ # презентация проекта
+├── reports/
+│   ├── tbank_report.html  # HTML-презентация
+│   ├── results/           # PNG / SVG графики
+│   ├── csv                # CSV
 
 ├── results/ # финальные графики, инсайты
 
