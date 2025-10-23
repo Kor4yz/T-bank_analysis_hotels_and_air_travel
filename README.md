@@ -72,12 +72,8 @@ T-bank_analysis_hotels_and_air_travel/
 ---
 
 ## 📊 BI-дашборд
-Добавь ссылку на опубликованный интерактивный дашборд:
 
-🔗 **Tableau Public:** [Смотреть дашборд](https://public.tableau.com/app/profile/kor4yz/...)  
-или  
-🔗 **Yandex DataLens:** [Перейти к отчёту](https://datalens.yandex.ru/...)
-
+🔗 **Yandex DataLens:** [Смотреть дашборд](https://datalens.ru/1b40fflhydq4m?_no_controls=1&tab=Ge&_theme=dark)
 
 ---
 
