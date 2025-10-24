@@ -68,6 +68,13 @@ T-bank_analysis_hotels_and_air_travel/
 | 💸 Revenue by Category | Доход по видам поездок |
 | ✈️ Top 10 Destinations | Популярные направления |
 
+## 🖼️ Дашборды (превью)
+<p align="center">
+  <img src="dashboards/KPI.png" alt="Основные KPI по travel" width="45%"/>
+  <img src="dashboards/revenue_dynamics.png" alt="Динамика выручки по месяцам" width="45%"/>
+</p>
+
+
 
 ---
 
