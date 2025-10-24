@@ -70,7 +70,7 @@ T-bank_analysis_hotels_and_air_travel/
 
 ## 🖼️ Дашборды (превью)
 <p align="center">
-  <img src="dashboards/KPI.png" alt="Основные KPI по travel" width="400"/>
+  <img src="dashboards/KPI.png" alt="Основные KPI по travel" width="500"/>
   <img src="dashboards/Analyze.png" alt="Суммарный анализ" width="400"/>
 </p>
 
