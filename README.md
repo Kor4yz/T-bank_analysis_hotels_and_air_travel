@@ -21,7 +21,7 @@
 ## 📂 Структура репозитория
 T-bank_analysis_hotels_and_air_travel/
 
-├── data/ # данные (или ссылки на них)
+├── data/ # данные и SQL запросы
 
 ├── notebooks/ # ноутбуки с анализом
 
