@@ -80,7 +80,7 @@ T-bank_analysis_hotels_and_air_travel/
 
 ## 📊 BI-дашборд
 
-🔗 **Yandex DataLens:** [Смотреть дашборд](https://datalens.ru/1b40fflhydq4m?_no_controls=1&tab=Ge&_theme=dark)
+🔗 **Yandex DataLens:** [Смотреть дашборд](https://datalens.yandex/1b40fflhydq4m)
 
 ---
 
