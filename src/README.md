@@ -17,11 +17,3 @@ python src/main.py
 Tребуется Python 3.9+ и библиотеки pandas, matplotlib, seaborn, numpy
 
 ---
-
-## ⚙️ Мини-доработки, если хочешь сделать «идеально»
-1. Добавь в корень файл `requirements.txt` с зависимостями:
-   ```txt
-   pandas
-   numpy
-   matplotlib
-   seaborn
